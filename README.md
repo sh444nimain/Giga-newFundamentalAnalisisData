@@ -24,7 +24,3 @@
 
 ## Deploy
 Link Web: https://giga-fad.streamlit.app/
-
-## Tampilan Dashboard
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9d2852b-9bed-4c69-8fba-4657067ef6dd" />
-
